@@ -1,0 +1,11 @@
+langchain
+langchain-groq
+faiss-cpu
+python-dotenv
+streamlit
+duckduckgo-search
+arxiv
+sentence-transformers
+langchain-text-splitters 
+tavily-python 
+langchain-community
