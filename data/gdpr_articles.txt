@@ -1,0 +1,6 @@
+GDPR Article 5 – Principles:
+Personal data shall be processed lawfully, fairly and transparently.
+Data shall be collected for specified, explicit and legitimate purposes.
+
+GDPR Article 6 – Lawfulness:
+Processing is lawful only if consent is given or legal obligation applies.
